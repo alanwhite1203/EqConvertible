@@ -136,4 +136,4 @@ Trigger days	20	Par Amount	1000
 
 
 You can find more details at
-https://finpricing.com/lib/EqSwap.html
+https://finpricing.com/lib/EqWarrant.html
