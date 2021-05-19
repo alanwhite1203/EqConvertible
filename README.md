@@ -1,4 +1,4 @@
-# Convertible and Reverse Convertible Bond
+# Convertible  Convertible Bond #
 
 Convertible bonds can be thought of as normal corporate bonds with embedded options, which enable the holder to exchange the bond asset for the issuer's stock. Having properties of both stocks and bonds, convertibles can be an attractive choice for investors and have tended to have lower risk. 
 
@@ -135,5 +135,9 @@ Trigger days	20	Par Amount	1000
 
 
 
-You can find more details at
+References:
+
 https://finpricing.com/lib/EqWarrant.html
+
+https://bitbucket.org/cmrm11/eqconvertible/downloads/EqConvertible-4.pdf
+
